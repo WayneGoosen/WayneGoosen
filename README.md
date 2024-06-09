@@ -47,7 +47,7 @@ Colors
 
 A website documenting any decisions around my projects on GitHub. It is crucial to know the context and tradeoffs behind a decision to understand it fully. [Read my ADRs](https://adr.waynegoosen.com/log4brains/)
 
-### 2. Tech Radar [Website](https://techradar.waynegoosen.com/) 💭
+## 2. Tech Radar [Website](https://techradar.waynegoosen.com/) 💭
 
 This tech radar is used to track and manage the technologies utilized in my personal GitHub projects. It helps in:
 
@@ -57,11 +57,11 @@ This tech radar is used to track and manage the technologies utilized in my pers
 
 This tech radar ensures that I maintain a structured approach to technology adoption and usage, aligning with best practices and future goals for my personal projects. This originates from [Thoughtworks](https://www.thoughtworks.com/radar). [View my technologies](https://techradar.waynegoosen.com/)
 
-### 3. What's the Damage (WTD)? 💰
+## 3. What's the Damage (WTD)? 💰
 
 It is always fascinating to know the cost of running an application, especially when using cloud services. There will be a WTD section within each repository README that highlights the expected or current cost of running the software.
 
-### 4. Release Stage Badge 🚀
+## 4. Release Stage Badge 🚀
 
 This describes the current stage the software is in. Possible values are:
 
@@ -90,7 +90,7 @@ This can be found in the repository README.
 ![End of Life (EOL)](https://img.shields.io/badge/Release_Stage-End_of_Life_(EOL)-yellow?color=%238B0000
 )
 
-### 5. Standardized README ✏️
+## 5. Standardized README ✏️
 
 When you come across any repository within my account, they are guaranteed to have these in the README:
 
