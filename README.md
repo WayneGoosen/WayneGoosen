@@ -101,6 +101,7 @@ When you come across any repository within my account, they are guaranteed to ha
 
 # Latest Blog Posts ✍️
 
+- [Streamlit Deployment Guide Part 1: Containerizing a Streamlit App](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-1-containerization/)
 - [Azure Federated Identity Credentials for Terraform: A GitHub Actions Guide](https://blog.waynegoosen.com/post/fed-creds-tf-github-actions/)
 
 # GitHub Stats 📈
