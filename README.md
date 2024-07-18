@@ -101,6 +101,7 @@ When you come across any repository within my account, they are guaranteed to ha
 
 # Latest Blog Posts ✍️
 
+- [Streamlit Deployment Guide Part 3: Azure Infrastructure via Terraform](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-3-azure-infra/)
 - [Streamlit Deployment Guide Part 2: GitHub Workflow to Build/Publish to ghcr.io](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-2-github-workflow/)
 - [Streamlit Deployment Guide Part 1: Containerizing a Streamlit App](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-1-containerization/)
 - [Azure Federated Identity Credentials for Terraform: A GitHub Actions Guide](https://blog.waynegoosen.com/post/fed-creds-tf-github-actions/)
