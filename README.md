@@ -101,6 +101,7 @@ When you come across any repository within my account, they are guaranteed to ha
 
 # Latest Blog Posts ✍️
 
+- [Streamlit Deployment Guide Part 4: GitHub Workflow for Terraform Apply & Destroy](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-4-github-tf-workflow/)
 - [How to Pass Azure Pipeline Parameters and Variables to Terraform](https://blog.waynegoosen.com/post/add-boolean-vars-terraform-azure-devops/)
 - [Streamlit Deployment Guide Part 3: Azure Infrastructure via Terraform](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-3-azure-infra/)
 - [Streamlit Deployment Guide Part 2: GitHub Workflow to Build/Publish to ghcr.io](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-2-github-workflow/)
