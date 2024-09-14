@@ -29,7 +29,7 @@ Colors
 [![GitHub waynegoosen](https://img.shields.io/github/followers/waynegoosen?style=social&label=follow)](https://github.com/WayneGoosen)
 [![Linkedin: Wayne Goosen](https://img.shields.io/badge/-Wayne%20Goosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waynegoosen/)](https://www.linkedin.com/in/waynegoosen/)
 [![X: Wayne Goosen](https://img.shields.io/twitter/follow/GoosenWayne)](https://x.com/GoosenWayne)
-[![Blog](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=blog.waynegoosen.com&url=https%3A%2F%2Fblog.waynegoosen.com)](https://blog.waynegoosen.com)
+[![Blog](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=waynegoosen.com&url=https%3A%2F%2Fwaynegoosen.com)](https://waynegoosen.com)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=waynegoosen.visitorbadge)](https://github.com/WayneGoosen)
 
 # About Me ✨
@@ -38,7 +38,7 @@ Colors
 - 🏠 I live in Switzerland🇨🇭, but I am proudly South African!🇿🇦
 - 🌱 I'm currently learning about any technologies/methodologies on how to ship more
 - 🚢 As every developer, the idea book is packed, aiming to ship at least one project a month. Follow to keep up to date 🙌
-- 👨‍💻 Sharing my knowledge on my [blog](https://blog.waynegoosen.com/)
+- 👨‍💻 Sharing my knowledge on my [blog](https://waynegoosen.com/)
 - 🤖 Diving into Generative AI... Not sure this needs to be a *disclaimer* but I am using GitHub Copilot with my projects 🚀
 
 # What Makes My GitHub Account Stand Out? 🧐
@@ -101,12 +101,12 @@ When you come across any repository within my account, they are guaranteed to ha
 
 # Latest Blog Posts ✍️
 
-- [Streamlit Deployment Guide Part 4: GitHub Workflow for Terraform Apply & Destroy](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-4-github-tf-workflow/)
-- [How to Pass Azure Pipeline Parameters and Variables to Terraform](https://blog.waynegoosen.com/post/add-boolean-vars-terraform-azure-devops/)
-- [Streamlit Deployment Guide Part 3: Azure Infrastructure via Terraform](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-3-azure-infra/)
-- [Streamlit Deployment Guide Part 2: GitHub Workflow to Build/Publish to ghcr.io](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-2-github-workflow/)
-- [Streamlit Deployment Guide Part 1: Containerizing a Streamlit App](https://blog.waynegoosen.com/post/streamlit-deployment-guide-part-1-containerization/)
-- [Azure Federated Identity Credentials for Terraform: A GitHub Actions Guide](https://blog.waynegoosen.com/post/fed-creds-tf-github-actions/)
+- [Streamlit Deployment Guide Part 4: GitHub Workflow for Terraform Apply & Destroy](https://waynegoosen.com/post/streamlit-deployment-guide-part-4-github-tf-workflow/)
+- [How to Pass Azure Pipeline Parameters and Variables to Terraform](https://waynegoosen.com/post/add-boolean-vars-terraform-azure-devops/)
+- [Streamlit Deployment Guide Part 3: Azure Infrastructure via Terraform](https://waynegoosen.com/post/streamlit-deployment-guide-part-3-azure-infra/)
+- [Streamlit Deployment Guide Part 2: GitHub Workflow to Build/Publish to ghcr.io](https://waynegoosen.com/post/streamlit-deployment-guide-part-2-github-workflow/)
+- [Streamlit Deployment Guide Part 1: Containerizing a Streamlit App](https://waynegoosen.com/post/streamlit-deployment-guide-part-1-containerization/)
+- [Azure Federated Identity Credentials for Terraform: A GitHub Actions Guide](https://waynegoosen.com/post/azure-federated-identity-credentials-terraform-github-actions-guide/)
 
 # GitHub Stats 📈
 
