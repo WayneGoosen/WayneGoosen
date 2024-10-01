@@ -101,6 +101,7 @@ When you come across any repository within my account, they are guaranteed to ha
 
 # Latest Blog Posts ✍️
 
+- [From Docker Compose to Score: A Platform Engineering Guide](https://waynegoosen.com/post/platform-engineering-transition-docker-compose-to-score-specification/)
 - [Streamlit Deployment Guide Part 4: GitHub Workflow for Terraform Apply & Destroy](https://waynegoosen.com/post/streamlit-deployment-guide-part-4-github-tf-workflow/)
 - [How to Pass Azure Pipeline Parameters and Variables to Terraform](https://waynegoosen.com/post/add-boolean-vars-terraform-azure-devops/)
 - [Streamlit Deployment Guide Part 3: Azure Infrastructure via Terraform](https://waynegoosen.com/post/streamlit-deployment-guide-part-3-azure-infra/)
