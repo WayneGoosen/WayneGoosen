@@ -1,17 +1,19 @@
-name: Update README
+name: Update README with Latest Blog Posts
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Pull latest blog posts into README
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://waynegoosen.com/index.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"

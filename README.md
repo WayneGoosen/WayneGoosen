@@ -1,122 +1,52 @@
-<!--
-**WayneGoosen/WayneGoosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- WayneGoosen/WayneGoosen — GitHub Profile README -->
 
-Here are some ideas to get you started:
+# Howzit, I'm [Wayne](https://www.linkedin.com/in/waynegoosen/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://waynegoosen.com">
+  <img src="./images/banner.png" alt="Wayne Goosen — Platform Engineer | Azure · AKS · ArgoCD · Terraform | Enabling 30+ teams via Golden Paths" width="100%" />
+</a>
 
-https://emojipedia.org/heart-hands
--->
-
-# Howzit, I'm [Wayne](https://www.linkedin.com/in/waynegoosen/)! 👋
-
-<!-- 
-Colors
-#e05c62 pink 
-#e4e7ce cream
-#5fa5b4 blue
--->
-
-![Let's ship more banner](./images/banner.png)
-
-[![GitHub waynegoosen](https://img.shields.io/github/followers/waynegoosen?style=social&label=follow)](https://github.com/WayneGoosen)
-[![Linkedin: Wayne Goosen](https://img.shields.io/badge/-Wayne%20Goosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waynegoosen/)](https://www.linkedin.com/in/waynegoosen/)
+[![Linkedin: Wayne Goosen](https://img.shields.io/badge/-Wayne%20Goosen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waynegoosen/)
 [![X: Wayne Goosen](https://img.shields.io/twitter/follow/GoosenWayne)](https://x.com/GoosenWayne)
 [![Blog](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=waynegoosen.com&url=https%3A%2F%2Fwaynegoosen.com)](https://waynegoosen.com)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=waynegoosen.visitorbadge)](https://github.com/WayneGoosen)
 
-# About Me ✨
+A platform engineer with over a decade in the industry — started out in development building full-stack web apps and large-scale transaction backend systems, and that dev background is what drives me to build platforms that developers actually enjoy using.
 
-- 🔭 Software and DevOps Engineer
-- 🏠 I live in Switzerland🇨🇭, but I am proudly South African!🇿🇦
-- 🌱 I'm currently learning about any technologies/methodologies on how to ship more
-- 🚢 As every developer, the idea book is packed, aiming to ship at least one project a month. Follow to keep up to date 🙌
-- 👨‍💻 Sharing my knowledge on my [blog](https://waynegoosen.com/)
-- 🤖 Diving into Generative AI... Not sure this needs to be a *disclaimer* but I am using GitHub Copilot with my projects 🚀
+These days I lead an Internal Developer Platform that lets engineers ship applications in minutes instead of days. Azure, AKS, Terraform, ArgoCD, shared Helm charts, Azure Pipeline templates — the golden paths that mean developers don't need a PhD in YAML and a three-day approval process to get code to production.
 
-# What Makes My GitHub Account Stand Out? 🧐
+I write about what I learn at [waynegoosen.com](https://waynegoosen.com) and take on consulting for teams making that same jump.
 
-## 1. Architecture Design Records (ADR) [Website](https://adr.waynegoosen.com/log4brains/) 📒
+🇿🇦 South African · 📍 Switzerland · ⏰ CET/CEST · 🌍 Remote worldwide
 
-A website documenting any decisions around my projects on GitHub. It is crucial to know the context and tradeoffs behind a decision to understand it fully. [Read my ADRs](https://adr.waynegoosen.com/log4brains/)
+## Tech Stack
 
-## 2. Tech Radar [Website](https://techradar.waynegoosen.com/) 💭
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
 
-This tech radar is used to track and manage the technologies utilized in my personal GitHub projects. It helps in:
+## Latest Blog Posts
 
-- Visualizing Progress: Providing a clear snapshot of the current state and evolution of the technologies in use.
-- Guiding Decisions: Assisting in making informed decisions about which technologies to adopt, trial, or reassess.
-- Documenting Journey: Keeping a record of the technological journey, showing what has been tried, what is being used, and what has been put on hold.
-
-This tech radar ensures that I maintain a structured approach to technology adoption and usage, aligning with best practices and future goals for my personal projects. This originates from [Thoughtworks](https://www.thoughtworks.com/radar). [View my technologies](https://techradar.waynegoosen.com/)
-
-## 3. What's the Damage (WTD)? 💰
-
-It is always fascinating to know the cost of running an application, especially when using cloud services. There will be a WTD section within each repository README that highlights the expected or current cost of running the software.
-
-## 4. Release Stage Badge 🚀
-
-This describes the current stage the software is in. Possible values are:
-
-- Proof of Concept (PoC): An initial demonstration to verify that a concept or theory is feasible.
-- Development: The stage where the actual product is built and initial features are implemented.
-- Alpha: Early testing phase where the product is tested internally for functionality and major issues.
-- Beta: Testing phase where the product is released to a limited audience for real-world exposure and feedback.
-- Release Candidate (RC): A version that is potentially ready for final release, pending final testing and bug fixes.
-- General Availability (GA): The product is officially released and available to all users.
-- End of Life (EOL): The product is no longer supported or maintained, and users are advised to upgrade or switch to a newer version.
-
-This can be found in the repository README.
-
-![PoC](https://img.shields.io/badge/Release_Stage-PoC-yellow?color=%23FF4500
-)
-![Development](https://img.shields.io/badge/Release_Stage-Development-yellow?color=%23FF8C00
-)
-![Alpha](https://img.shields.io/badge/Release_Stage-Alpha-yellow?color=%23FFD700
-)
-![Beta](https://img.shields.io/badge/Release_Stage-Beta-yellow?color=%23ADFF2F
-)
-![Release Candidate (RC)](https://img.shields.io/badge/Release_Stage-Release_Candidate_(RC)-yellow?color=%2300BFFF
-)
-![General Availability (GA)](https://img.shields.io/badge/Release_Stage-General_Availability_(GA)-yellow?color=%2332CD32
-)
-![End of Life (EOL)](https://img.shields.io/badge/Release_Stage-End_of_Life_(EOL)-yellow?color=%238B0000
-)
-
-## 5. Standardized README ✏️
-
-When you come across any repository within my account, they are guaranteed to have these in the README:
-
-- Badges under title: Release stage badge, Website up, license etc.
-- Hosting and Deployment
-- Architecture Overview
-- What's the Damage (WTD)?
-
-# Latest Blog Posts ✍️
-
+<!-- BLOG-POST-LIST:START -->
 - [From Docker Compose to Score: A Platform Engineering Guide](https://waynegoosen.com/post/platform-engineering-transition-docker-compose-to-score-specification/)
 - [Streamlit Deployment Guide Part 4: GitHub Workflow for Terraform Apply & Destroy](https://waynegoosen.com/post/streamlit-deployment-guide-part-4-github-tf-workflow/)
 - [How to Pass Azure Pipeline Parameters and Variables to Terraform](https://waynegoosen.com/post/add-boolean-vars-terraform-azure-devops/)
 - [Streamlit Deployment Guide Part 3: Azure Infrastructure via Terraform](https://waynegoosen.com/post/streamlit-deployment-guide-part-3-azure-infra/)
 - [Streamlit Deployment Guide Part 2: GitHub Workflow to Build/Publish to ghcr.io](https://waynegoosen.com/post/streamlit-deployment-guide-part-2-github-workflow/)
-- [Streamlit Deployment Guide Part 1: Containerizing a Streamlit App](https://waynegoosen.com/post/streamlit-deployment-guide-part-1-containerization/)
-- [Azure Federated Identity Credentials for Terraform: A GitHub Actions Guide](https://waynegoosen.com/post/azure-federated-identity-credentials-terraform-github-actions-guide/)
+<!-- BLOG-POST-LIST:END -->
 
-# GitHub Stats 📈
+[Read all posts →](https://waynegoosen.com/blog)
+
+## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waynegoosen&theme=dark)](https://git.io/streak-stats)
 
-[![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynegoosen&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-# Support 🫶
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/waynegoosen)
-
-> This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)"
+*Available for consulting — platform audits, golden path architecture, AKS/ArgoCD implementations.*
+*[Get in touch](https://waynegoosen.com/#contact) · [wayne@waynegoosen.com](mailto:wayne@waynegoosen.com)*
