@@ -3,7 +3,7 @@
 # Howzit, I'm [Wayne](https://www.linkedin.com/in/waynegoosen/)!
 
 <a href="https://waynegoosen.com">
-  <img src="./images/banner.png" alt="Wayne Goosen — Platform Engineer | Azure · AKS · ArgoCD · Terraform | Enabling 30+ teams via Golden Paths" width="100%" />
+  <img src="./images/golden-paths-banner.png" alt="Wayne Goosen — Platform Engineer | Azure · AKS · ArgoCD · Terraform | Enabling 30+ teams via Golden Paths" width="100%" />
 </a>
 
 [![Linkedin: Wayne Goosen](https://img.shields.io/badge/-Wayne%20Goosen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waynegoosen/)
