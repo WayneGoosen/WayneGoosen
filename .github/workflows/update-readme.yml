@@ -17,3 +17,4 @@ jobs:
           feed_list: "https://waynegoosen.com/index.xml"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=blog-post)"
